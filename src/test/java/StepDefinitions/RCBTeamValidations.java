@@ -37,5 +37,6 @@ public class RCBTeamValidations extends RCBTeam {
 	public void user_validate_the_player_profile_to_contain_foreignplayers_and_atleast_wicketkeeper(String totalforeignplayers, String countofwicketkeepers) throws Throwable {
 	    
 	    RCB.ValidateNoOfForeignPlayersandWicketKeeprs(Integer.parseInt(totalforeignplayers), Integer.parseInt(countofwicketkeepers));
+	
 	}
 	}
