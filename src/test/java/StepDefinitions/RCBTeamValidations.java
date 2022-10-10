@@ -38,5 +38,4 @@ public class RCBTeamValidations extends RCBTeam {
 	    
 	    RCB.ValidateNoOfForeignPlayersandWicketKeeprs(Integer.parseInt(totalforeignplayers), Integer.parseInt(countofwicketkeepers));
 	}
-	
-}
+	}
