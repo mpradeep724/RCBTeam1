@@ -1,7 +1,7 @@
 package StepDefinitions;
 
 
-import RCBTeamValidations.RCBTeam;
+import TeamSelectionValidation.RCBTeam.RCBTeam;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
